@@ -15,7 +15,4 @@ A fully-featured, web-based chess game with a unique futuristic aesthetic, sound
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript (React)
-- **Backend:** Node.js (Express)
-- **Database:** MongoDB
-- **AI:** Python (TensorFlow/PyTorch) for the strategic advisor
+- **Frontend:** HTML, CSS, JavaScript 
